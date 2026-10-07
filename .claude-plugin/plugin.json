@@ -1,0 +1,6 @@
+{
+  "name": "message-chapters",
+  "version": "1.0.0",
+  "description": "Каждое сообщение пользователя — глава во встроенном оглавлении Claude Desktop: переход к своим сообщениям в один клик",
+  "author": { "name": "Evgeny Lavrov" }
+}

@@ -1,0 +1,4 @@
+dist/
+# Типы, которые движок Claude сам кладёт рядом с загруженным плагином
+.claude-plugin/types/
+tsconfig.json
